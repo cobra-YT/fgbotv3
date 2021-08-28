@@ -105,7 +105,7 @@ const banned = [
  
 //número dueño del bot
 const ownerNumber = [
-  "59172945992@s.whatsapp.net",
+  "526971147890@s.whatsapp.net",
   ];
 
 //*********** 𝗔𝗣𝗜𝗞𝗘𝗬 ***********//
